@@ -1,6 +1,6 @@
 variable "release_name" {
   type        = string
-  default     = hashicorp-learn
+  default     = "hashicorp-learn"
   description = "Helm Release name for Consul chart"
 }
 
